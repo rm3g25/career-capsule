@@ -3,7 +3,7 @@ LANG:English|VERSION:2.4|DATE:2026-03-22|CONFIDENCE:87
 
 === ID ===
 NAME:Ilia Kuzmin|HEADLINE:Senior Delphi Engineer — Legacy Modernization, Cross-Platform Desktop & LLM Integration
-LOCATION:Russia (remote)|RELOCATION:Slovenia|DE|AT|CH|NL|REMOTE:full-remote preferred
+LOCATION:Russia (remote)|RELOCATION:Slovenia|DE|AT|CH|NL|ES|PT|IT|PL|Nordics|REMOTE:full-remote preferred
 WORK_AUTH:requires sponsorship|AVAILABILITY:open, reviewing periodically
 SEARCH_STATUS:passive — monitoring EU opportunities, relocation goal Slovenia
 EMAIL:kusminilia@gmail.com
@@ -56,7 +56,7 @@ Siberian State University of Telecommunications and Information Technologies (Si
 SQL for Development|Yandex Practicum|Sep 2024|2024-9313-001|PostgreSQL fundamentals+advanced, DDL/DML, JOINs, CTEs, window functions, PostGIS, ACID/transactions, PL/pgSQL, stored procedures, triggers, ORM, indexes, query plan analysis — applied in WebArchive parser pet project
 
 === COMPENSATION ===
-RANGE:€65,000–85,000|CURRENCY:EUR|BASIS:gross/year
+RANGE:EU-local €65,000–90,000|Nordics €75,000–100,000|Remote-US $90,000–130,000|CURRENCY:EUR/USD|BASIS:gross/year
 
 === SIGNALS ===
 Intrinsically motivated engineer:started coding age 11 from love of games not career plans, built personal game post-graduation 2006, still maintaining it 20yr later — engineering as identity not job
