@@ -1,15 +1,15 @@
 === META ===
-LANG:English|VERSION:2.4|DATE:2026-03-22|CONFIDENCE:87
+LANG:English|VERSION:2.4.1|DATE:2026-04-14|CONFIDENCE:87
 
 === ID ===
-NAME:Ilia Kuzmin|HEADLINE:Senior Delphi Engineer — Legacy Modernization, Cross-Platform Desktop & LLM Integration
+NAME:Ilia Kuzmin|HEADLINE:Senior Delphi Engineer — Deep Legacy Ownership & Cross-Platform Migration
 LOCATION:Russia (remote)|RELOCATION:Slovenia|DE|AT|CH|NL|ES|PT|IT|PL|Nordics|REMOTE:full-remote preferred
 WORK_AUTH:requires sponsorship|AVAILABILITY:open, reviewing periodically
 SEARCH_STATUS:passive — monitoring EU opportunities, relocation goal Slovenia
 EMAIL:kusminilia@gmail.com
 
 === LINKS ===
-GITHUB:https://github.com/rm3g25|LINKEDIN:https://www.linkedin.com/in/kusmin-ilia/|PORTFOLIO:-
+GITHUB:https://github.com/rm3g25|LINKEDIN:https://www.linkedin.com/in/kusmin-ilia/|PORTFOLIO:https://github.com/rm3g25/
 
 === TAGS ===
 Delphi|FireMonkey/FMX|Windows→Linux Migration|Legacy Modernization|LLM Integration|Agentic AI Workflows|Cross-Platform Desktop|ERP Systems|OOP/SOLID|EU-Ready Remote
@@ -25,10 +25,11 @@ Built Benefits Monetization system (SocTechService): covered 300–400k benefici
 Engineered site-factory platform (Adonweb): 2000+ sites launched, $2M+ revenue contribution (estimated from traffic and monetization data; exact figures not disclosed by company)
 Domain parser identified a $200k auction-value domain acquired for <$20 registration cost
 Built working agentic generate→review→refine loop in RAD Studio (Ollama + Claude API) — published EN+RU on LinkedIn
+Delphi stack uninterrupted 2006–present across all roles including 10yr SEO period — language continuity confirmed by production work, not self-assessment
 
 === TIMELINE ===
 Consyst Business Group|Delphi Senior Software Developer|Oct 2022–present|full-time remote|Resolved 100+ bugs (10 extreme severity, previously unresolved for years),migrated template system to Linux solo (70+ modules + 10 visual components),migrated major desktop modules Windows→Linux (FMX),extended Turbo Script engine,promoted Senior in 1yr became 1 of 2 key devs in 3yr
-Adonweb|Senior Software Engineer / Project Manager|Jul 2012–Sep 2022|full-time office|Architected site-factory systems (2000+ sites, $2M+ revenue estimated),built WebArchive domain parser — identified $200k domain for <$20,built content pipelines parsers and domain analysis tools,maintained core codebase as team foundation 10+ years
+Adonweb|Senior Software Engineer / Technical Lead |Jul 2012–Sep 2022|full-time office|Architected site-factory systems (2000+ sites, $2M+ revenue estimated),built WebArchive domain parser — identified $200k domain for <$20,built content pipelines parsers and domain analysis tools,maintained core codebase as team foundation 10+ years
 SocTechService|Lead Delphi Software Developer|Mar 2008–Mar 2012|hybrid|Built Benefits Monetization system from scratch — covered 300–400k beneficiaries in Novosibirsk region,migrated dBase→Firebird,authored technical documentation
 CJSC Logos|Delphi Software Developer|Sep 2006–Feb 2008|office|Desktop application modules,DLL development,MS Office integration,legacy system support
 
@@ -67,6 +68,8 @@ Trusted on hardest problems:10 extreme-severity bugs resolved previously unresol
 Frontier engineer in niche:only known Delphi developer with working agentic LLM loop in RAD Studio — published EN+RU, building in public
 Disciplined self-directed learner:A2→B2 English in 3yr self-organized, SQL cert applied in pet project, LLM tooling self-taught since GPT-3.5
 Resilient career builder:returned to engineering after 10yr SEO detour, passed technical interview with code review, hard onboarding survived — growth confirmed by trajectory
+First-principles thinker: independently derived distributed systems concepts (gossip protocol, TTL, reputation systems) in 2011 without academic context — same mechanic as resolving decade-old bugs nobody else could crack
+Tool-agnostic engineering: 20yr across 15+ libraries and frameworks, multiple stack transitions — adapts to any toolset because depth is in systems thinking, not in specific APIs
 
 === VECTORS ===
-SHORT:Senior/Lead Delphi role EU or full-remote, cross-platform and legacy domain|MID:Technical Architect or Platform Lead for long-lived desktop systems; Delphi→.NET migration specialist|ENV:product company with mature codebase, code review culture, structured processes|STYLE:high-reliability focus|deep ownership|business-aware engineering|optimal where quality and longevity matter
+SHORT:Senior/Lead Delphi role EU or full-remote, cross-platform and legacy domain|MID:Technical Architect or Platform Lead for long-lived desktop systems; Delphi→.NET migration specialist|ENV:product company with mature codebase, code review culture, structured processes|STYLE:high-reliability focus|deep ownership|business-aware engineering|optimal where quality and longevity matter|tool-agnostic|learns new libraries as needed|depth in architecture not syntax

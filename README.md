@@ -15,6 +15,8 @@ Most resumes are written for people. But the first reader is almost always a mac
 
 ---
 
+> Living document. Updated as career grows.
+
 ## How it works
 
 1. Copy the prompt from `career-capsule-core.md`
@@ -70,7 +72,7 @@ JOB_DESCRIPTION  = {paste job posting — only if MODE = targeted}
 ## Article
 
 Full writeup on the idea, the format, and who it's for:
-[→ LinkedIn article](https://www.linkedin.com/in/kusmin-ilia/)
+[→ LinkedIn article](https://www.linkedin.com/pulse/i-built-new-resume-format-capsule-ai-humans-ilia-kuzmin-cxw7c/
 
 ---
 
