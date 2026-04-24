@@ -3,7 +3,7 @@ LANG:English|VERSION:2.4.1|DATE:2026-04-14|CONFIDENCE:87
 
 === ID ===
 NAME:Ilia Kuzmin|HEADLINE:Senior Delphi Engineer — Deep Legacy Ownership & Cross-Platform Migration
-LOCATION:Russia (remote)|RELOCATION:Slovenia|DE|AT|CH|NL|ES|PT|IT|PL|Nordics|REMOTE:full-remote preferred
+LOCATION:Russia (remote)|RELOCATION:Slovenia|DE|AT|CH|NL|ES|PT|IT|PL|Nordics|REMOTE:full-remote preferred; open to hybrid or on-site with relocation package
 WORK_AUTH:requires sponsorship|AVAILABILITY:open, reviewing periodically
 SEARCH_STATUS:passive — monitoring EU opportunities, relocation goal Slovenia
 EMAIL:kusminilia@gmail.com
@@ -12,7 +12,7 @@ EMAIL:kusminilia@gmail.com
 GITHUB:https://github.com/rm3g25|LINKEDIN:https://www.linkedin.com/in/kusmin-ilia/|PORTFOLIO:https://github.com/rm3g25/
 
 === TAGS ===
-Delphi|FireMonkey/FMX|Windows→Linux Migration|Legacy Modernization|LLM Integration|Agentic AI Workflows|Cross-Platform Desktop|ERP Systems|OOP/SOLID|EU-Ready Remote
+Delphi|FireMonkey/FMX|Windows→Linux Migration|Legacy Modernization|LLM Integration|Agentic AI Workflows|Cross-Platform Desktop|ERP Systems|OOP/SOLID|EU-Ready
 
 === PROOF ===
 Started coding at age 11 on QBasic and Turbo Pascal, driven by love of 2D platformers — not by career plans
@@ -72,4 +72,4 @@ First-principles thinker: independently derived distributed systems concepts (go
 Tool-agnostic engineering: 20yr across 15+ libraries and frameworks, multiple stack transitions — adapts to any toolset because depth is in systems thinking, not in specific APIs
 
 === VECTORS ===
-SHORT:Senior/Lead Delphi role EU or full-remote, cross-platform and legacy domain|MID:Technical Architect or Platform Lead for long-lived desktop systems; Delphi→.NET migration specialist|ENV:product company with mature codebase, code review culture, structured processes|STYLE:high-reliability focus|deep ownership|business-aware engineering|optimal where quality and longevity matter|tool-agnostic|learns new libraries as needed|depth in architecture not syntax
+SHORT:Senior/Lead Delphi role EU — remote, hybrid, or on-site with relocation considered, cross-platform and legacy domain|MID:Technical Architect or Platform Lead for long-lived desktop systems; Delphi→.NET migration specialist|ENV:product company with mature codebase, code review culture, structured processes|STYLE:high-reliability focus|deep ownership|business-aware engineering|optimal where quality and longevity matter|tool-agnostic|learns new libraries as needed|depth in architecture not syntax
