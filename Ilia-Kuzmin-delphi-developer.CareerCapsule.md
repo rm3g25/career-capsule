@@ -1,5 +1,5 @@
 === META ===
-LANG:English|VERSION:2.4.1|DATE:2026-04-14|CONFIDENCE:87
+LANG:English|VERSION:2.4.2|DATE:2026-07-24|CONFIDENCE:87
 
 === ID ===
 NAME:Ilia Kuzmin|HEADLINE:Senior Delphi Engineer — Deep Legacy Ownership & Cross-Platform Migration
@@ -22,7 +22,7 @@ Promoted to Senior within 1 year at Consyst; became 1 of 2 key developers on Tur
 Resolved 100+ bugs at Consyst — ~10 classified as extreme severity, unresolved for years before assignment
 Migrated template/spreadsheet system to Linux near single-handedly: 70+ .pas modules + 10 VCL-style visual components
 Built Benefits Monetization system (SocTechService): covered 300–400k beneficiaries across Novosibirsk region
-Engineered site-factory platform (Adonweb): 2000+ sites launched, $2M+ revenue contribution (estimated from traffic and monetization data; exact figures not disclosed by company)
+Engineered site-factory platform (Adonweb): 2000+ sites launched, $2M+ revenue contribution — rule-based agents before agents went mainstream (estimated from traffic and monetization data; exact figures not disclosed by company)
 Domain parser identified a $200k auction-value domain acquired for <$20 registration cost
 Built working agentic generate→review→refine loop in RAD Studio (Ollama + Claude API) — published EN+RU on LinkedIn
 Delphi stack uninterrupted 2006–present across all roles including 10yr SEO period — language continuity confirmed by production work, not self-assessment
@@ -36,7 +36,7 @@ CJSC Logos|Delphi Software Developer|Sep 2006–Feb 2008|office|Desktop applicat
 === PROJECTS ===
 TURBO Windows→Linux Migration|Enterprise ERP Desktop|large-scale production platform|Delphi+FMX+Linux+Git+Jira|Technical Lead on owned modules|70+ modules + 10 visual components migrated; PDF export float-coord migration across 3 system layers (TPdfDoc/TPdfFormatter/TLineCache)
 Benefits Monetization System|Government Social Protection|regional scale — 300–400k beneficiaries|Delphi 7+Firebird+FastReport+EhLib|Architect+Solo Developer|Full-region coverage built from scratch including dBase→Firebird migration
-Site Factory Platform|SEO Automation & Content Pipelines|2000+ sites, $2M+ revenue (estimated)|Delphi+MySQL+Firebird+REST+Indy+DevExpress|Technical Lead|Enabled team to generate and publish niche sites at scale without manual work
+Site Factory Platform|SEO Automation & Content Pipelines|2000+ sites, $2M+ revenue (estimated)|Delphi+MySQL+Firebird+REST+Indy+DevExpress|Technical Lead|Enabled team to generate and publish niche sites at scale without manual work — rule-based autonomous agents, pre-LLM era
 WebArchive Domain Parser|Data Engineering / Business Intelligence|identified $200k domain for <$20|Delphi+WebArchive API|Solo Developer|Parser surfaced high-value expired domains from archive data
 Agentic Delphi Coding Loop|LLM Integration / Developer Tooling|pet project — unique in Delphi ecosystem|Delphi+RAD Studio+Ollama+qwen2.5-coder+Claude API|Architect+Solo Developer|Working generate→review→refine agent loop inside RAD Studio
 Moon 2D Game|Personal Project / Game Development|solo, 20yr lifespan|Delphi+OpenGL+WinAPI+OOP|Solo Architect+Developer|2D platformer built post-graduation 2006 in personal time; currently being migrated to modern Delphi — 20 years and still going
@@ -65,7 +65,7 @@ Chaos→structure superpower:authored Career Capsule LLM methodology, built 10yr
 Proven impact at scale:300–400k beneficiaries served, 2000+ sites, $2M+ revenue, $200k domain found for $20 — outcomes not descriptions
 Long-horizon engineering mindset:two systems with 10yr+ production lifespan, personal game project alive 20yr, 70+ modules migrated near-solo — builds things that last
 Trusted on hardest problems:10 extreme-severity bugs resolved previously unresolved for years; promoted Senior in 1yr; 1 of 2 key devs in 3yr
-Frontier engineer in niche:only known Delphi developer with working agentic LLM loop in RAD Studio — published EN+RU, building in public
+Frontier engineer in niche:only known Delphi developer with working agentic LLM loop in RAD Studio — published EN+RU, building in public; built rule-based agents at Adonweb a decade before the LLM wave
 Disciplined self-directed learner:A2→B2 English in 3yr self-organized, SQL cert applied in pet project, LLM tooling self-taught since GPT-3.5
 Resilient career builder:returned to engineering after 10yr SEO detour, passed technical interview with code review, hard onboarding survived — growth confirmed by trajectory
 First-principles thinker: independently derived distributed systems concepts (gossip protocol, TTL, reputation systems) in 2011 without academic context — same mechanic as resolving decade-old bugs nobody else could crack
