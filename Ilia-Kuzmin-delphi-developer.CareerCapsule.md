@@ -1,5 +1,5 @@
 === META ===
-LANG:English|VERSION:2.4.2|DATE:2026-07-24|CONFIDENCE:87
+LANG:English|VERSION:2.4.3|DATE:2026-08-08|CONFIDENCE:87
 
 === ID ===
 NAME:Ilia Kuzmin|HEADLINE:Senior Delphi Engineer — Deep Legacy Ownership & Cross-Platform Migration
@@ -15,7 +15,7 @@ GITHUB:https://github.com/rm3g25|LINKEDIN:https://www.linkedin.com/in/kusmin-ili
 Delphi|FireMonkey/FMX|Windows→Linux Migration|Legacy Modernization|LLM Integration|Agentic AI Workflows|Cross-Platform Desktop|ERP Systems|OOP/SOLID|EU-Ready
 
 === PROOF ===
-Started coding at age 11 on QBasic and Turbo Pascal, driven by love of 2D platformers — not by career plans
+Started coding at 11 on a ZX Spectrum in Sinclair BASIC (1995), moved to Turbo Pascal on a 586 in 1997 — driven by love of 2D platformers, not by career plans
 20+ years Delphi across 4 companies — native-level Object Pascal, thinks and reads in the language
 Built Moon 2D game (2006, personal project): Delphi+OpenGL+WinAPI+OOP — post-graduation, personal time, currently being migrated to modern Delphi — 20yr personal lifespan
 Promoted to Senior within 1 year at Consyst; became 1 of 2 key developers on TurboX in 3 years
