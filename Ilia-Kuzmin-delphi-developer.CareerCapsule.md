@@ -1,5 +1,5 @@
 === META ===
-LANG:English|VERSION:2.4.3|DATE:2026-08-08|CONFIDENCE:87
+LANG:English|VERSION:2.5.2|DATE:2026-08-12
 
 === ID ===
 NAME:Ilia Kuzmin|HEADLINE:Senior Delphi Engineer — Deep Legacy Ownership & Cross-Platform Migration
@@ -9,7 +9,7 @@ SEARCH_STATUS:passive — monitoring EU opportunities, relocation goal Slovenia
 EMAIL:kusminilia@gmail.com
 
 === LINKS ===
-GITHUB:https://github.com/rm3g25|LINKEDIN:https://www.linkedin.com/in/kusmin-ilia/|PORTFOLIO:https://github.com/rm3g25/
+GITHUB:https://github.com/rm3g25|LINKEDIN:https://www.linkedin.com/in/kusmin-ilia/|PORTFOLIO:https://github.com/rm3g25/|SITE:https://iliakuzmin.dev
 
 === TAGS ===
 Delphi|FireMonkey/FMX|Windows→Linux Migration|Legacy Modernization|LLM Integration|Agentic AI Workflows|Cross-Platform Desktop|ERP Systems|OOP/SOLID|EU-Ready
@@ -18,6 +18,7 @@ Delphi|FireMonkey/FMX|Windows→Linux Migration|Legacy Modernization|LLM Integra
 Started coding at 11 on a ZX Spectrum in Sinclair BASIC (1995), moved to Turbo Pascal on a 586 in 1997 — driven by love of 2D platformers, not by career plans
 20+ years Delphi across 4 companies — native-level Object Pascal, thinks and reads in the language
 Built Moon 2D game (2006, personal project): Delphi+OpenGL+WinAPI+OOP — post-graduation, personal time, currently being migrated to modern Delphi — 20yr personal lifespan
+ERP platform at Consyst in production since 1991, ~1.5M lines of Delphi — among the oldest enterprise systems still under active development
 Promoted to Senior within 1 year at Consyst; became 1 of 2 key developers on TurboX in 3 years
 Resolved 100+ bugs at Consyst — ~10 classified as extreme severity, unresolved for years before assignment
 Migrated template/spreadsheet system to Linux near single-handedly: 70+ .pas modules + 10 VCL-style visual components
@@ -28,10 +29,10 @@ Built working agentic generate→review→refine loop in RAD Studio (Ollama + Cl
 Delphi stack uninterrupted 2006–present across all roles including 10yr SEO period — language continuity confirmed by production work, not self-assessment
 
 === TIMELINE ===
-Consyst Business Group|Delphi Senior Software Developer|Oct 2022–present|full-time remote|Resolved 100+ bugs (10 extreme severity, previously unresolved for years),migrated template system to Linux solo (70+ modules + 10 visual components),migrated major desktop modules Windows→Linux (FMX),extended Turbo Script engine,promoted Senior in 1yr became 1 of 2 key devs in 3yr
+Consyst Business Group|Delphi Senior Software Developer|Oct 2022–present|full-time remote|Resolved 100+ bugs (10 extreme severity, previously unresolved for years),migrated template system to Linux solo (70+ modules + 10 visual components),migrated major desktop modules Windows→Linux (FMX),extended Turbo Script engine,investigated Delphi↔C# interop failures via .NET/Roslyn (scoped investigation),promoted Senior in 1yr became 1 of 2 key devs in 3yr
 Adonweb|Senior Software Engineer / Technical Lead |Jul 2012–Sep 2022|full-time office|Architected site-factory systems (2000+ sites, $2M+ revenue estimated),built WebArchive domain parser — identified $200k domain for <$20,built content pipelines parsers and domain analysis tools,maintained core codebase as team foundation 10+ years
 SocTechService|Lead Delphi Software Developer|Mar 2008–Mar 2012|hybrid|Built Benefits Monetization system from scratch — covered 300–400k beneficiaries in Novosibirsk region,migrated dBase→Firebird,authored technical documentation
-CJSC Logos|Delphi Software Developer|Sep 2006–Feb 2008|office|Desktop application modules,DLL development,MS Office integration,legacy system support
+CJSC Logos|Delphi Software Developer|Sep 2006–Feb 2008|office|Environmental payment calculation system (Delphi 7+BDE+dBase),desktop application modules,DLL development,MS Office integration via OLE Automation,legacy system support
 
 === PROJECTS ===
 TURBO Windows→Linux Migration|Enterprise ERP Desktop|large-scale production platform|Delphi+FMX+Linux+Git+Jira|Technical Lead on owned modules|70+ modules + 10 visual components migrated; PDF export float-coord migration across 3 system layers (TPdfDoc/TPdfFormatter/TLineCache)
@@ -42,7 +43,7 @@ Agentic Delphi Coding Loop|LLM Integration / Developer Tooling|pet project — u
 Moon 2D Game|Personal Project / Game Development|solo, 20yr lifespan|Delphi+OpenGL+WinAPI+OOP|Solo Architect+Developer|2D platformer built post-graduation 2006 in personal time; currently being migrated to modern Delphi — 20 years and still going
 
 === SKILLS ===
-Delphi/Object Pascal:5:20yr production, native-level, 4 companies|FireMonkey/FMX:4:Consyst cross-platform migration, 70+ modules|Legacy Systems:5:all 4 companies 20yr, specialization not limitation|OOP/SOLID:4:sustained multi-company practice|Windows→Linux Migration:4:TURBO platform, near-solo large-scale migration|LLM Integration:4:agentic loop RAD Studio, Ollama+Claude API, published articles|Debugging complex systems:5:100+ bugs resolved, 10 extreme-severity previously unresolved|OpenGL/Graphics:3:Moon 2D personal project 2006, low-level graphics pipeline|SQL/PostgreSQL:3:Yandex cert 2024, applied in pet project|Multithreading:3:Adonweb pipelines+client-server|REST/HTTP APIs:3:Adonweb automation|Git:3:all recent roles|C#:2:active learning, strategic Delphi→.NET path|AI-Augmented Engineering:4:since GPT-3.5, builds tool chains, critical sections written independently
+Delphi/Object Pascal:5:20yr production, native-level, 4 companies|FireMonkey/FMX:4:Consyst cross-platform migration, 70+ modules|Legacy Systems:5:all 4 companies 20yr, specialization not limitation|OOP/SOLID:4:sustained multi-company practice|Windows→Linux Migration:4:TURBO platform, near-solo large-scale migration|LLM Integration:4:agentic loop RAD Studio, Ollama+Claude API, published articles|Debugging complex systems:5:100+ bugs resolved, 10 extreme-severity previously unresolved|OpenGL/Graphics:3:Moon 2D personal project 2006, low-level graphics pipeline|SQL/PostgreSQL:3:Yandex cert 2024, applied in pet project|Multithreading:3:Adonweb pipelines+client-server|REST/HTTP APIs:3:Adonweb automation|Git:3:all recent roles|C#:2:active learning, strategic Delphi→.NET path, Delphi↔C# interop investigation at Consyst (.NET/Roslyn)|AI-Augmented Engineering:4:since GPT-3.5, builds tool chains, critical sections written independently
 
 === LIBS ===
 EhLib|FastReport|DevExpress|Indy|FireDAC|TMS VCL|BDE|JEDI|SpTBXLib|Virtual Treeview|TRichView|EmbeddedWB|TortoiseSVN|Ollama API|Claude API|OpenGL
