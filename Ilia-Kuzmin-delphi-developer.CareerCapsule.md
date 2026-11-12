@@ -18,7 +18,7 @@ Delphi|FireMonkey/FMX|Windows→Linux Migration|Legacy Modernization|AI Adoption
 Started coding at 11 on a ZX Spectrum in Sinclair BASIC (1995), moved to Turbo Pascal on a 586 in 1997 — driven by love of 2D platformers, not by career plans
 20+ years Delphi across 4 companies — native-level Object Pascal, thinks and reads in the language
 Moon 2D game (personal project): started 2006, released 2008 (Delphi+OpenGL+WinAPI+OOP); full rewrite 2026 in Delphi 13 (SDL2/D3D11), 3.0 released Nov 2026 — 100k+ lines incl. tests, ~1500 tests, 570 commits in 3.5 months; noticed by Embarcadero
-Business-automation development platform at Consyst (own language, compiler, form designer; ERP is one product on it) — in production since 1991, ~1.5M lines of Delphi — among the oldest enterprise systems still under active development
+Business-automation development platform at Consyst (own language, compiler, form designer; ERP is one product on it) — in production since 1991, 2M+ lines of own Delphi code (excl. vendor VCL/RTL) — among the oldest enterprise systems still under active development
 Promoted to Senior within 1 year at Consyst; in 3 years became 1 of 2 developers singled out on the platform core (of 5 committers)
 Resolved 100+ bugs at Consyst — ~10 classified as extreme severity, unresolved for years before assignment
 Migrated template/spreadsheet system to Linux near single-handedly: 70+ .pas modules + 10 VCL-style visual components
@@ -41,7 +41,7 @@ TURBO Windows→Linux Migration|Business-Automation Development Platform|large-s
 Benefits Monetization System|Government Social Protection|regional scale — 300–400k beneficiaries|Delphi 7+Firebird+FastReport+EhLib|Architect+Solo Developer|Full-region coverage built from scratch including dBase→Firebird migration
 Site Factory Platform|SEO Automation & Content Pipelines|2000+ sites, $2M+ revenue (estimated)|Delphi+MySQL+Firebird+REST+Indy+DevExpress|Technical Lead|Enabled team to generate and publish niche sites at scale without manual work — rule-based autonomous agents, pre-LLM era
 WebArchive Domain Parser|Data Engineering / Business Intelligence|identified $200k domain for <$20|Delphi+WebArchive API|Solo Developer|Parser surfaced high-value expired domains from archive data
-AI Adoption in TURBO Core|AI Tooling / Developer Productivity|core team of a 1.5M-line platform|skills repo (turbo-core-kit)+auto-documentation pipeline+knowledge base of core code|Lead|Skills and tools for agents, code self-description pipeline, 2h internal talk; next: RAG over the codebase
+AI Adoption in TURBO Core|AI Tooling / Developer Productivity|core team of a 2M+ line platform|skills repo (turbo-core-kit)+auto-documentation pipeline+knowledge base of core code|Lead|Skills and tools for agents, code self-description pipeline, 2h internal talk; next: RAG over the codebase
 DelphiStyle|Code Style Guide for Delphi + LLMs|public repo rm3g25/DelphiStyle|Markdown|Author|Without an explicit guide LLMs drift to the statistical average of old Delphi code; the guide overrides that
 Agentic Delphi Coding Loop (DelphiLoop + LegacyGrep)|LLM Integration / Developer Tooling|early pet project, unfinished|Delphi+RAD Studio+Ollama+qwen2.5-coder+Claude API|Solo Developer|Own harness written to learn how harnesses work from the inside; moved to ready-made harnesses
 WebArchive Job Search|Personal Tooling|in development|Delphi+WebArchive|Solo Developer|Search for Delphi vacancies over web archive data
